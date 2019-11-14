@@ -3,6 +3,7 @@ AWS CodeStar Sample ASP.NET Core Web Service
 
 This sample code helps get you started with a simple ASP.NET Core web service
 deployed by AWS CodeDeploy and AWS CloudFormation to an Amazon EC2 server.
+Yes.
 
 What's Here
 -----------
